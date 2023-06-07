@@ -3,7 +3,7 @@ package mavensingleinheritancepackage;
 public class msingleinheritance2 extends msingleinheritance {
 public void view2()
 {
-	System.out.println("Second class");
+	System.out.println("Second class");//print message
 }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
