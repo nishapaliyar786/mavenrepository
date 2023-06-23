@@ -1,6 +1,6 @@
 package finalkeyword;
 
-public class Finalkeywordclass1 extends Finalkeywordclass {
+/*public class Finalkeywordclass1 extends Finalkeywordclass {
 void welcome()
 {
 	System.out.println("child class");
@@ -12,4 +12,4 @@ void welcome()
 		f.welcome();
 	}
 
-}
+}*/

@@ -4,7 +4,7 @@ public class Finalkeywordinstancevariable {
 	final int a = 20;
 
 	public void show() {
-		a = 30;
+		//a = 30;
 		System.out.println(a);
 	}
 
