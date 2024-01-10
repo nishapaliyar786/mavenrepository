@@ -23,16 +23,16 @@ public class Arraylist1 {
 		al.remove(2);
 		System.out.println(al);
 		int size = al.size();
-		System.out.println(size);
+		System.out.println("The size of the list is :"+size);
 		al.add(1,"java");
-		System.out.println(al);
-		System.out.println(al.contains("chinju"));
-		System.out.println(al.contains("welcome"));
+		System.out.println("new list : "+al);
+		System.out.println("use contains function : "+al.contains("chinju"));
+		System.out.println("use contains function : "+al.contains("welcome"));
 		System.out.println("returing element "+al.get(3));
-		System.out.println(al.set(2, "ayra"));
+		System.out.println("use set function : "+al.set(2, "ayra"));
 		System.out.println(al);
 		Collections.sort(al);
-		System.out.println(al);
+		System.out.println("After sorting : "+al);
 		
 
 	}

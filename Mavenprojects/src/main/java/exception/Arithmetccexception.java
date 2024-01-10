@@ -17,6 +17,6 @@ public class Arithmetccexception {
 	{
 		Arithmetccexception ee = new Arithmetccexception();
 		ee.dispaly();
-;	}
+	}
 
 }
