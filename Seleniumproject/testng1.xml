@@ -1,0 +1,13 @@
+<suite name="Suit1">
+	<test name="test1">
+		<classes>
+			<class name="testNg.DataProviderTestClass" />
+			<class name="testNg.AssertionExample" />
+			<class name="testNg.AnnotationHierarchy" />
+			<class name="testNg.TestNGFileUpload" />
+			<class name="testNgAssignment.TestNGAssignment1" />
+			<class name="testNg.TestNGIframe" />
+			<class name="testNg.FirstTestNGScript" />
+		</classes>
+	</test>
+</suite>
